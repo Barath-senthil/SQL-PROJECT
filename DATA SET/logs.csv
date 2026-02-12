@@ -1,0 +1,4 @@
+log_id,log_message,log_date
+1,Insert Order,2023-12-01
+2,Delete Customer,2023-11-15
+3,Update Salary,2023-10-10
